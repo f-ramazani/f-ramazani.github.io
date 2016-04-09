@@ -7,7 +7,7 @@
     min-height: 100%;
  min-width: 90px;
  	background-color:#246;
-background:url('1.jpg') no-repeat center center fixed;
+background:url('1.jpg');
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -15,7 +15,7 @@ background:url('1.jpg') no-repeat center center fixed;
 .site-title {
     font-size: 26px;
     font-weight: 300;
-
+ font-color: #235;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
